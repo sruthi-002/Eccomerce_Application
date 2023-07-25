@@ -1,0 +1,10 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin-left:40px;
+}
+.card
+{
+    background-color: rgb(186, 179, 231);
+}

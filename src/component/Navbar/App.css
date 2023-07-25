@@ -1,0 +1,36 @@
+.root {
+  min-width:'100%'
+}
+.media{
+  height:0,
+}
+.cardcontent{
+  display: flex;
+  justify-content: flex-end;
+}
+.cardactions{
+  display: flex;
+  justify-content: space-between;
+}
+.appbar{
+  display: flex;
+  justify-content: space-between;
+  background-color:SlateBlue;
+  color: white;
+  height:max-content;
+  width: "100vw";
+}
+.title{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    max-width: 1200px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.end
+{
+     margin-top: 10px;
+}
+

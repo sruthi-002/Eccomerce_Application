@@ -1,0 +1,37 @@
+.button1{
+    display: flex;
+    justify-content: space-between;
+    min-width: 150px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.button2{
+    
+    min-width: 150px;
+}
+.title{
+    margin-top: 5%;
+    margin-left: 5px;
+}
+.css-1xnmwiw-MuiButtonBase-root-MuiButton-root{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.name{
+    text-align: center;
+    font-size: 25px;
+}
+.root {
+    min-width:'100%'
+  }
+  .media{
+    height:0,
+  }
+  .cardcontent{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .cardactions{
+    display: flex;
+    justify-content: space-between;
+  }
